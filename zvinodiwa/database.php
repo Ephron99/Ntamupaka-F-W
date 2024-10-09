@@ -1,0 +1,1 @@
+<?php $db = new mysqli('localhost','root','santech@2019','ntamupaka');?>
