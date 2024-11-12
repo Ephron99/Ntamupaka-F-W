@@ -13,7 +13,9 @@ function Navbar() {
     <nav className="bg-white shadow-md w-full">
       <div className="flex items-center justify-between px-6 py-4 md:px-16">
         {/* Logo */}
-        <div className="text-2xl font-semibold text-[#093A3E]">LOGO</div>
+        <div>
+          <img src="refinedlogo.jpeg" className="w-10" />
+        </div>
 
         {/* Menu Icon for Mobile */}
         <div className="md:hidden" onClick={toggleMenu}>
