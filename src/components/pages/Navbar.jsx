@@ -61,7 +61,7 @@ function Navbar() {
           {/* Mobile Login Button */}
           {isOpen && (
             <li className="md:hidden mt-4">
-              <button className="bg-[#093A3E] text-white px-6 py-2 rounded hover:bg-[#ea7b30]">
+              <button className="bg-[#093A3E] text-white px-6 py-2 rounded ">
                 Login
               </button>
             </li>
@@ -70,7 +70,7 @@ function Navbar() {
 
         {/* Desktop Login Button */}
         <div className="hidden md:flex">
-          <button className="bg-[#093A3E] text-white px-4 py-2 rounded hover:bg-[#ea7b30]">
+          <button className="bg-[#093A3E] text-white px-4 py-2 rounded ">
             Login
           </button>
         </div>
