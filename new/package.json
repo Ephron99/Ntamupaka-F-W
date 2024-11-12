@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://ephron99.github.io/Ntamupaka-F-W/",
+  "homepage": "https://ephron99.github.io/Ntamupaka-F-W",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
