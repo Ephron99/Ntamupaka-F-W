@@ -7,6 +7,7 @@ import { MdOutlineEmail } from "react-icons/md";
 import { ImLocation2 } from "react-icons/im";
 
 
+
 function Footer() {
   return (
     <div className="bg-[#093A3E] text-gray-200 pt-10 pb-8 px-6 sm:px-10 lg:px-20 relative z-50">

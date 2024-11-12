@@ -71,7 +71,7 @@ function Navbar() {
 
         {/* Desktop Login Button */}
         <div className="hidden md:flex">
-          <button className="bg-[#093A3E] text-white px-4 py-2 rounded">
+          <button className="bg-[#093A3E] text-white px-4 py-2 rounded hover:bg-[#51b4bd]">
             Login
           </button>
         </div>
