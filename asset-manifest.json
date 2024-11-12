@@ -1,20 +1,22 @@
 {
   "files": {
-    "main.css": "/Ntamupaka-F-W/static/css/main.cf066c91.css",
-    "main.js": "/Ntamupaka-F-W/static/js/main.4c622325.js",
+    "main.css": "/Ntamupaka-F-W/static/css/main.638568fe.css",
+    "main.js": "/Ntamupaka-F-W/static/js/main.9e27b9f6.js",
     "static/js/453.5e560239.chunk.js": "/Ntamupaka-F-W/static/js/453.5e560239.chunk.js",
     "static/media/product2.jpg": "/Ntamupaka-F-W/static/media/product2.b1f203476b94047ffe45.jpg",
     "static/media/final1.jpg": "/Ntamupaka-F-W/static/media/final1.8a91ba2014cc925855b6.jpg",
     "static/media/product1.jpg": "/Ntamupaka-F-W/static/media/product1.b02d9b03336d89f6280c.jpg",
-    "static/media/product3.png": "/Ntamupaka-F-W/static/media/product3.3950afd7ccaf601a206f.png",
+    "static/media/disti.jpg": "/Ntamupaka-F-W/static/media/disti.da975b5c8240db32ac26.jpg",
+    "static/media/price.jpg": "/Ntamupaka-F-W/static/media/price.ae8c2970585cf1cb737f.jpg",
     "static/media/refinedlogo.jpeg": "/Ntamupaka-F-W/static/media/refinedlogo.471e6b509a6ffc1ae503.jpeg",
+    "static/media/quality.jpeg": "/Ntamupaka-F-W/static/media/quality.b805423a2746574bf7da.jpeg",
     "index.html": "/Ntamupaka-F-W/index.html",
-    "main.cf066c91.css.map": "/Ntamupaka-F-W/static/css/main.cf066c91.css.map",
-    "main.4c622325.js.map": "/Ntamupaka-F-W/static/js/main.4c622325.js.map",
+    "main.638568fe.css.map": "/Ntamupaka-F-W/static/css/main.638568fe.css.map",
+    "main.9e27b9f6.js.map": "/Ntamupaka-F-W/static/js/main.9e27b9f6.js.map",
     "453.5e560239.chunk.js.map": "/Ntamupaka-F-W/static/js/453.5e560239.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cf066c91.css",
-    "static/js/main.4c622325.js"
+    "static/css/main.638568fe.css",
+    "static/js/main.9e27b9f6.js"
   ]
 }
