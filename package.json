@@ -2,7 +2,7 @@
   "name": "ntamabuka",
   "private": true,
   "version": "0.0.0",
-   "homepage": "https://ephron99.github.io/Ntamupaka-F-W/",  
+   "homepage": "https://ephron99.github.io/Ntamupaka-F-W",  
   "type": "module",
   "scripts": {
     "dev": "vite",
