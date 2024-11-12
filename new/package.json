@@ -3,13 +3,13 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/Ephron99/Ntamupaka-F-W",
+  "homepage": "https://ephron99.github.io/Ntamupaka-F-W/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
-    "prepublish":"npm run build",
+    "prepublish": "npm run build",
     "publish": "gh-pages -d dist"
   },
   "dependencies": {
