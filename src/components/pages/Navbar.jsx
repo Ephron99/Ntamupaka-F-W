@@ -14,7 +14,7 @@ function Navbar() {
       <div className="flex items-center justify-between px-6 py-4 md:px-16">
         {/* Logo */}
         <div>
-          <img src="refinedlogo.jpeg" className="w-10" />
+          <img src="./assets/refinedlogo.jpeg" className="w-10" alt="Logo" />
         </div>
 
         {/* Menu Icon for Mobile */}
@@ -48,7 +48,7 @@ function Navbar() {
           <li className="text-xl text-gray-700 py-2 md:py-0 cursor-pointer">
             About Us
           </li>
-          <li className="text-xl text-gray-700  py-2 md:py-0 cursor-pointer">
+          <li className="text-xl text-gray-700 py-2 md:py-0 cursor-pointer">
             Services
           </li>
           <li className="text-xl text-gray-700 py-2 md:py-0 cursor-pointer">
@@ -61,7 +61,7 @@ function Navbar() {
           {/* Mobile Login Button */}
           {isOpen && (
             <li className="md:hidden mt-4">
-              <button className="bg-[#093A3E] text-white px-6 py-2 rounded ">
+              <button className="bg-[#093A3E] text-white px-6 py-2 rounded">
                 Login
               </button>
             </li>
@@ -70,7 +70,7 @@ function Navbar() {
 
         {/* Desktop Login Button */}
         <div className="hidden md:flex">
-          <button className="bg-[#093A3E] text-white px-4 py-2 rounded ">
+          <button className="bg-[#093A3E] text-white px-4 py-2 rounded">
             Login
           </button>
         </div>

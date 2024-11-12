@@ -1,18 +1,19 @@
 import React from "react";
 
+// Services and Projects data
 const services = [
   {
-    image: "/product3.png",
+    image: "./product3.png", // Ensure this path points to your asset correctly
     title: "Price Stabilization",
     content: "Helping maintain stable prices for essential goods.",
   },
   {
-    image: "/product3.png",
+    image: "./product3.png",
     title: "Quality Assurance",
     content: "Ensuring high-quality standards in all products.",
   },
   {
-    image: "/product3.png",
+    image: "./product3.png",
     title: "Efficient Distribution",
     content: "Timely and reliable distribution services.",
   },
@@ -20,17 +21,17 @@ const services = [
 
 const projects = [
   {
-    image: "/product1.jpg",
+    image: "./product1.jpg", // Ensure this path points to your asset correctly
     title: "Community Food Support",
     content: "Empowering communities with reliable food access.",
   },
   {
-    image: "/product2.jpg",
+    image: "./product2.jpg",
     title: "Sustainable Agriculture",
     content: "Promoting sustainable farming practices for better yield.",
   },
   {
-    image: "/product1.jpg",
+    image: "./product1.jpg",
     title: "Market Expansion",
     content: "Expanding market reach to support local farmers.",
   },
@@ -41,8 +42,8 @@ function Landing() {
     <div>
       {/* Hero Section */}
       <div
-        className="h-screen w-full bg-cover  flex items-center justify-center"
-        style={{ backgroundImage: "url('/final1.jpg')" }}
+        className="h-screen w-full bg-cover flex items-center justify-center"
+        style={{ backgroundImage: "url('./final1.jpg')" }} // Update path as needed
       >
         <div className="text-center text-white px-6 md:px-0">
           <h1 className="text-3xl md:text-5xl font-bold mb-4">
@@ -119,8 +120,6 @@ function Landing() {
           ))}
         </div>
       </div>
-
-     
     </div>
   );
 }
